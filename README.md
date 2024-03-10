@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Currently computer science student at Charles Uni
+- 20 years old
+- Likes chocolate
 <!--
 **Pavek100J/Pavek100J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
